@@ -1,3 +1,3 @@
 # jonahreed-dev
 
-The main portfolio piece by Jonah.
+The main portfolio piece by Jonah Reed.
